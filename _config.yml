@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 name: ruolan's blog
 permalink: /blog/:year/:month/:day/:title
+paginate: 10
