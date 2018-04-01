@@ -4,9 +4,12 @@ title: "[译文]爱彼迎首席设计师采访：如何定义产品设计"
 categories: blog
 ---
 
-校对翻译了这篇文章，2017-10-25发布于[三节课网站](http://blog.sanjieke.cn/article/3462746)。英文原文地址：[Defining Product Design: A Dispatch from Airbnb's Design Chief](http://firstround.com/review/defining-product-design-a-dispatch-from-airbnbs-design-chief/)
+# [译文]爱彼迎首席设计师采访：如何定义产品设计
 
-![](media/15225721707088/15225725908965.jpg)
+
+校对翻译了这篇文章，发布于[三节课网站](http://blog.sanjieke.cn/article/3462746)。英文原文地址：[Defining Product Design: A Dispatch from Airbnb's Design Chief](http://firstround.com/review/defining-product-design-a-dispatch-from-airbnbs-design-chief/)
+
+![](https://i.imgur.com/Hc00Zvg.jpg)
 
 
 > 这篇文章的作者是Alex Schleifer，爱彼迎的设计副总裁。他曾经是Say Media的高级副总裁兼任创意主管。他同时是Sideshow和UX Magazine（后被收购）的联合创始人。
@@ -112,7 +115,7 @@ categories: blog
  
 
 团队合作就像组装一个三脚凳一样，每条腿代表一个部门。如果一开始就像图A一样，每个团队就能够同时发展，最终达到一个令人满意的平衡。
-![](media/15225721707088/15225727599315.jpg)
+![](https://i.imgur.com/LVqhckp.jpg)
 
  
 
@@ -135,7 +138,7 @@ categories: blog
  
 
 如果没有一开始实行这套策略的话，你将会得到一个不稳定的团队和不稳定的产品。因为工程师和产品团队都成长起来了，但是设计团队缺失（图C）或者之后才加入（图D）。
-![](media/15225721707088/15225727798538.jpg)
+![](https://i.imgur.com/rmuuqhc.jpg)
 
 
 
@@ -197,7 +200,7 @@ categories: blog
 
 是时候从工业标准开始入手，重新定义设计了。
 
-![](media/15225721707088/15225728429337.jpg)
+![](https://i.imgur.com/cRTeGxF.jpg)
 
 
  
@@ -219,7 +222,7 @@ categories: blog
 
 尽管你很难有条件单独组建一支设计Ops团队，但是对于日常使用的工具进行一些小升级会让工作变得更轻松。这是最基础能够做到的：建立一种标准设计语言，并且让大家都使用它。即建立一套设计体系，甚至包括诸如怎样命名文件，如何管理设计版本这样的细节。比起一直在寻找完美的语言来说，每个人都坚持使用一种语言更加重要。
 
- ![](media/15225721707088/15225728719049.jpg)
+ ![](https://i.imgur.com/20eSErA.jpg)
 
 
 坚持使用这种形式成为了我们设计语言体系（DLS）的基础，这不仅仅是关于icon选择或者设计风格，这是由设计师和开发者共同打造的一个体系。DLS的一个核心目标就是设计师和开发者共同定义组件，一旦被定义，这些组件会在iOS，安卓，Reactive Native和网页版本上更新。尽管这些组件建立在不同的开发环境中，在全公司内，他们的名字和核心作用是一模一样的。
@@ -280,6 +283,5 @@ youtube 链接：
 设计也可以为了优雅而纯粹的标准而奋斗，我这种设计师看到新工具和新标准的时候能够跟看到故事板一样发光。这些标准可以让工程师和产品经理与设计师无缝对接工作和高效沟通，尽管有一些步骤可能跟传统的设计流程冲突。我们应该关注那些喜欢发挥创造力的设计师，也更应该关注那些将图片剪切成矢量图以用于iOS系统上能节省一些储存空间的设计师。很少有设计师会觉得这些最佳实践和技术上的实现方法有意思，但是我觉得设计师们应该了解，这是为了各位所服务的公司好，也是为了我们这个行业的进步。
 
  
-
-魔术背后自有机关，未来的设计既需要魔术师也需要那些设计机关的人。
+**魔术背后自有机关，未来的设计既需要魔术师也需要那些设计机关的人。**
 
