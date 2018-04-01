@@ -1,3 +1,7 @@
+---
+layout: post
+categories: blog
+---
 # [旧翻译文]这17个成功的公司原来共性在这儿！
 业余时间成为三节课翻译团的成员，2017-10-31翻译的一篇文章。原文发布于[三节课网站](http://blog.sanjieke.cn/article/3493684)。英文原文地址在这里：https://rst-it.com/blog/15-examples-of-successful-mvps/
 
