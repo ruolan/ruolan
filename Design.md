@@ -3,7 +3,6 @@ layout: page
 title: Design
 permalink: /design/
 ---
-
 # 设计
 
 大学的时候学过设计，之前一直对互联网产品的设计更感兴趣，平面并不是很感兴趣。**现在做设计做的少了，更多的是感兴趣产品或服务更系统层面的东西，而不只是设计的表层。**
@@ -18,36 +17,48 @@ permalink: /design/
 
 点击可查看详情
 
-* 北京林业大学园林学院官网WEB及移动端页面设计 2018-03
+#### 北京林业大学园林学院官网WEB及移动端页面设计 
+2018-03
+
 ![00-bjfu-index](https://i.imgur.com/s7StYqk.jpg)
 
-* IT桔子APP页面设计 2016/11-2017/8
+#### IT桔子APP页面设计 
+2016/11-2017/8
+
 ![](https://i.imgur.com/E00NQWS.jpg)
 
-* 国家电网某项目页面设计 2017-9
+#### 国家电网某项目页面设计 
+2017-9
+
 ![](https://i.imgur.com/7Ez8GMB.jpg)
 
-
-* 学堂在线资源库项目部分WEB设计 2017-11
+#### 学堂在线资源库项目部分WEB设计
+2017-11
 ![](https://i.imgur.com/rItXC3l.jpg)
 
-* 某古籍图文阅读网页设计 2017-7
+#### 某古籍图文阅读网页设计 
+2017-7
+
 ![](https://i.imgur.com/N7EuQKV.jpg)
 
+#### 诺亚财富微诺亚APP部分页面设计 
+2016-8
 
-* 诺亚财富微诺亚APP部分页面设计 2016-8
 ![](https://i.imgur.com/Yb3LuiT.jpg)
 
+#### IT桔子网页设计 
+2015-10
 
-* IT桔子网页设计 2015-10
 ![](https://i.imgur.com/lK0rZxc.jpg)
 
+#### 某教育网站设计 
+2014-10
 
-* 某教育网站设计 2014-10
 ![y-edu-mockup](https://i.imgur.com/nP45CBg.jpg)
 
+#### 某旅游APP产品流程设计 
+2014-09
 
-* 某旅游APP产品流程设计 2014-09
 ![1-toura-20140925-2000](https://i.imgur.com/1ndkxvZ.jpg)
 
 等等
@@ -71,4 +82,5 @@ permalink: /design/
 
 页面版本：
 180401 ruolan创建
+
 
