@@ -1,6 +1,5 @@
 ---
 layout: post
-title: "[旧文]被遗忘的“互联网活化石”尼葛洛庞帝和他想要连接的第三世界"
 categories: blog
 author: "ruolan"
 ---

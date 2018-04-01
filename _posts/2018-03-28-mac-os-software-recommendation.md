@@ -1,6 +1,5 @@
 ---
 layout: post
-title: "MAC电脑工具装机工具推荐"
 categories: blog
 author: "ruolan"
 
