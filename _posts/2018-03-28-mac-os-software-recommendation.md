@@ -1,10 +1,9 @@
 ---
 layout: post
+title: "MAC电脑工具装机工具推荐"
 categories: blog
-author: "ruolan"
-
 ---
-## MAC电脑工具装机工具推荐
+
 在写下这个初始版本的时候，电脑版本：mac os high sierra 10.13.1 (17B1003)，发现下面部分软件已经不兼容mac后续的版本了。
 
 每次用到好工具的时候感觉这个世界又变得更美好了一点。欢迎给我推荐工具：）

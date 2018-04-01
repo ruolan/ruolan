@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2018-03-30
+title: "客串设计的免费LOGO"
+categories: blog
 ---
-# 客串设计的免费LOGO
 
 ####上宇御合
 2018-03
