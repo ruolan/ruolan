@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[平面]TEDxBeijing TEDxBFU 平面设计"
+    title: "[平面]TEDxBeijing TEDxBFU 活动主题平面设计"
 categories: design
 date: 2012-07-28
 ---

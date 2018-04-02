@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PingWest品玩活动海报设计 2013/08-2014/11"
+title: "PingWest品玩科技主题活动海报设计 2013/08-2014/11"
 categories: project
 ---
 

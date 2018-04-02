@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Carnegie-Tsinghua Global Center 平面设计"
+title: "Carnegie-Tsinghua Global Center品牌平面设计"
 categories: project
 date: 2012-08-06
 ---

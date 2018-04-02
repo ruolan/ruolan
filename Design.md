@@ -22,17 +22,23 @@ permalink: /design/
 
 ![00-bjfu-index](https://i.imgur.com/s7StYqk.jpg)
 
-#### [IT桔子APP页面设计](https://ruolan.github.io/project/2017/09/10/itjuzi-app-design.html)
+#### Gogreen 澳洲太阳能资讯网站页面设计
+2017-11
+
+![gogreen-website](https://i.imgur.com/22vesSX.jpg)
+
+
+#### [IT桔子-信息聚合展示类APP页面设计](https://ruolan.github.io/project/2017/09/10/itjuzi-app-design.html)
 2016/11-2017/8
 
 [![](https://i.imgur.com/E00NQWS.jpg)](https://ruolan.github.io/project/2017/09/10/itjuzi-app-design.html)
 
-#### [国家电网某项目页面设计](https://ruolan.github.io/project/2017/08/10/national-grid-app.html)
+#### [国家电网-某协同办公APP页面设计](https://ruolan.github.io/project/2017/08/10/national-grid-app.html)
 2017-9
 
 [![](https://i.imgur.com/7Ez8GMB.jpg)](https://ruolan.github.io/project/2017/08/10/national-grid-app.html)
 
-#### [学堂在线资源库项目部分WEB设计](https://ruolan.github.io/design/2017/10/10/xuetangx-mooc-website-design.html)
+#### [学堂在线-视频文档资源库项目部分WEB设计](https://ruolan.github.io/design/2017/10/10/xuetangx-mooc-website-design.html)
 2017-11
 
 [![](https://i.imgur.com/rItXC3l.jpg)](https://ruolan.github.io/design/2017/10/10/xuetangx-mooc-website-design.html)
@@ -42,12 +48,12 @@ permalink: /design/
 
 [![](https://i.imgur.com/N7EuQKV.jpg)](https://ruolan.github.io/project/2017/07/10/book-reading-website-design.html)
 
-#### [诺亚财富微诺亚APP部分页面设计](https://ruolan.github.io/project/2016/08/10/noah-website-app-design.html)
+#### [诺亚财富-微诺亚APP信息展示类页面设计](https://ruolan.github.io/project/2016/08/10/noah-website-app-design.html)
 2016-8
 
 [![](https://i.imgur.com/Yb3LuiT.jpg)](https://ruolan.github.io/project/2016/08/10/noah-website-app-design.html)
 
-#### [IT桔子网页设计](https://ruolan.github.io/design/2015/11/10/itjuzi-website-design.html)
+#### [IT桔子-信息聚合展示类网页设计](https://ruolan.github.io/design/2015/11/10/itjuzi-website-design.html)
 2015-10
 
 [![](https://i.imgur.com/lK0rZxc.jpg)](https://ruolan.github.io/design/2015/11/10/itjuzi-website-design.html)
@@ -68,12 +74,12 @@ permalink: /design/
 
 大部分平面设计，我都是属于客串和帮忙，除了早期的工作产出。
 
-* [信息图设计](https://ruolan.github.io/design/2014/08/10/infographics-design.html) 2013/08-2014/8
-* [leanFM海报设计](https://ruolan.github.io/design/2018/03/01/leanfm-poster-design.html) 2018-03
-* [思图科技折页](https://ruolan.github.io/design/2017/04/01/situ-tech-graphic-design.html) 2017-04
-* [品玩活动海报设计](https://ruolan.github.io/project/2014/08/01/pingwest-event-graphic-design.html) 2013/08-2014-11
-* [TEDxBeijing TEDxBFU 平面设计](https://ruolan.github.io/design/2012/07/28/tedxbeijing-tedbfu.html) 2012-07
-* [Carnegie-Tsinghua Global Center 平面设计](https://ruolan.github.io/project/2012/08/06/Carnegie-Tsinghua-Global-Center-graphic.html) 2012-08
+* [品玩新媒体科技主题信息图设计](https://ruolan.github.io/design/2014/08/10/infographics-design.html) 2013/08-2014/8
+* [人工智能建筑leanFM海报设计](https://ruolan.github.io/design/2018/03/01/leanfm-poster-design.html) 2018-03
+* [思图科技-人工智能主题品牌折页](https://ruolan.github.io/design/2017/04/01/situ-tech-graphic-design.html) 2017-04
+* [PingWest品玩科技主题活动海报设计](https://ruolan.github.io/project/2014/08/01/pingwest-event-graphic-design.html) 2013/08-2014-11
+* [TEDxBeijing TEDxBFU 活动主题平面设计](https://ruolan.github.io/design/2012/07/28/tedxbeijing-tedbfu.html) 2012-07
+* [Carnegie-Tsinghua Global Center品牌平面设计](https://ruolan.github.io/project/2012/08/06/Carnegie-Tsinghua-Global-Center-graphic.html) 2012-08
 * [客串设计过一些logo](https://ruolan.github.io/blog/2018/03/30/the-logos-i-parttime-2.html) 基本上就是用实用主义和极简的方式实现的
 
 等等

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IT桔子APP页面设计"
+title: "IT桔子-信息聚合展示类APP页面设计"
 categories: project
 date: 2017-09-10
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[平面]思图科技折页"
+title: "[平面]思图科技-人工智能主题品牌折页"
 categories: design
 ---
 

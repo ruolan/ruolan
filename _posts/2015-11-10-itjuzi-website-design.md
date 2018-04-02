@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IT桔子网页设计"
+title: "IT桔子-信息聚合展示类网页设计"
 categories: design
 date: 2015-11-10
 ---

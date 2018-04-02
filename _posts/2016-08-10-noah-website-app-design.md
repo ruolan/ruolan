@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "诺亚财富微诺亚APP部分页面设计"
+title: "诺亚财富微诺亚APP信息展示类页面设计"
 categories: project
 date: 2016-08-10
 ---

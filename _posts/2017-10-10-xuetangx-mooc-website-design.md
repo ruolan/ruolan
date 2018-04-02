@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "学堂在线资源库项目部分WEB设计"
+title: "学堂在线-视频文档资源库项目部分WEB设计"
 categories: design
 date: 2017-10-10
 ---
