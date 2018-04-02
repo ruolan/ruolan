@@ -8,7 +8,7 @@ layout: feed
     <link href="http://ruolan.github.io/blog/atom.xml" rel="self"/>
     <link href="http://ruolan.github.io/blog"/>
     <updated>{{ site.time | date_to_xmlschema }}</updated>
-    <id>http://hankquinlan.github.io/blog</id>
+    <id>http://ruolan.github.io/blog</id>
     <author>
         <name>ruolan</name>
         <email>ruolan8@gmail.com</email>
