@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Design
+title: DESIGN
 permalink: /design/
 ---
 # 设计

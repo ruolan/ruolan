@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Learn
+title: LEARN
 permalink: /learn/
 ---
 
