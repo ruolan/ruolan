@@ -2,13 +2,11 @@ title: ruolan
 author: wechat:ruolanhuang
 email: ruolan8@gmail.com
 description: > # this means to ignore newlines until "twitter_username:"
-
 paginate: 10
 
 # social links
 linkedin_username: ruolanhuang
 github_username: ruolan
-rss: https://ruolan.github.io/blog/atom.xml
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
@@ -44,6 +42,8 @@ header_pages:
 
 # Build settings
 markdown: kramdown
+kramdown:
+  input: GFM
 theme: minima
 exclude:
   - Gemfile
