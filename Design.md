@@ -22,39 +22,47 @@ permalink: /design/
 
 ![00-bjfu-index](https://i.imgur.com/s7StYqk.jpg)
 
+
 #### IT桔子APP页面设计 
 2016/11-2017/8
 
 ![](https://i.imgur.com/E00NQWS.jpg)
+
 
 #### 国家电网某项目页面设计 
 2017-9
 
 ![](https://i.imgur.com/7Ez8GMB.jpg)
 
+
 #### 学堂在线资源库项目部分WEB设计
 2017-11
 ![](https://i.imgur.com/rItXC3l.jpg)
+
 
 #### 某古籍图文阅读网页设计 
 2017-7
 
 ![](https://i.imgur.com/N7EuQKV.jpg)
 
+
 #### 诺亚财富微诺亚APP部分页面设计 
 2016-8
 
 ![](https://i.imgur.com/Yb3LuiT.jpg)
+
 
 #### IT桔子网页设计 
 2015-10
 
 ![](https://i.imgur.com/lK0rZxc.jpg)
 
+
 #### 某教育网站设计 
 2014-10
 
 ![y-edu-mockup](https://i.imgur.com/nP45CBg.jpg)
+
 
 #### 某旅游APP产品流程设计 
 2014-09
