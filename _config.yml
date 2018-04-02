@@ -1,5 +1,5 @@
 title: ruolan
-author: wechat:ruolan
+author: wechat: ruolan
 email: ruolan8@gmail.com
 description: > # this means to ignore newlines until "twitter_username:"
 
@@ -35,9 +35,9 @@ minima:
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
-  - home.md
   - project.md
   - learn.md
+  - design.md
   - blog.md
   - about.md
 

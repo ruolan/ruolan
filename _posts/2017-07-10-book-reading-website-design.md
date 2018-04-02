@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "某古籍图文阅读网页设计"
-categories: project
+categories: design
 date: 2017-07-10
 ---
 2017-07
@@ -12,5 +12,3 @@ date: 2017-07-10
 ![](https://i.imgur.com/Ge212kT.jpg)
 
 ![](https://i.imgur.com/5V81AxH.jpg)
-
-

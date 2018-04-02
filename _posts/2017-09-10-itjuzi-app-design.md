@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "IT桔子-信息聚合展示类APP页面设计"
-categories: project
+categories: design
 date: 2017-09-10
 ---
 
@@ -17,5 +17,3 @@ date: 2017-09-10
 ![](https://i.imgur.com/p7WTz2b.jpg)
 
 ![](https://i.imgur.com/xNEMsbQ.jpg)
-
-
