@@ -5,9 +5,9 @@ permalink: /design/
 ---
 ### Product/Web/APP Design
 
+在工作和业余时间做过的设计如下
+
 部分内容点击图片可以查看更多
-
-
 
 >
 #### 北京林业大学园林学院官网WEB及移动端页面设计
