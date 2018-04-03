@@ -1,9 +1,9 @@
 ---
-#
-# By default, content added below the "---" mark will appear in the home page
-# between the top bar and the list of recent posts.
-# To change the home page layout, edit the _layouts/home.html file.
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-#
-layout: home
+layout: page
+title: Hi
 ---
+我是ruolan
+
+[PROJECT](https://ruolan.github.io/project/) 里是做过的一些事情
+[DESIGN](https://ruolan.github.io/design/) 里我做过的设计
+[BLOG](https://ruolan.github.io/blog/) 是写的一些文章和生活琐碎的日常
