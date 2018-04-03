@@ -6,8 +6,8 @@ title: Hi
 
 [PROJECT](https://ruolan.github.io/project/) 里是做过的一些事情
 
-[DESIGN](https://ruolan.github.io/design/) 里我做过的设计
+[DESIGN](https://ruolan.github.io/design/) 里是做过的设计
 
 [BLOG](https://ruolan.github.io/blog/) 是写的一些文章和生活琐碎的日常
 
-如果你正在用移动端查看，右上角的大按钮是导航。
+如果你正在用移动端查看，右上角的正方形按钮是导航
