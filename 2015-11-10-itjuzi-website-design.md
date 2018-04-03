@@ -2,6 +2,7 @@
 layout: post
 title: "IT桔子-信息聚合展示类网页设计"
 categories: design
+permalink: /design/2015/11/10/itjuzi-website-design.html/
 date: 2015-11-10
 ---
 
@@ -25,5 +26,3 @@ date: 2015-11-10
 ![](https://i.imgur.com/YN1BYls.jpg)
 
 ![](https://i.imgur.com/yaSau2D.jpg)
-
-

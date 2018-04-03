@@ -2,7 +2,7 @@
 layout: post
 title: "国家电网某协同办公APP页面设计"
 categories: design
-date: 2017-08-10
+permalink: /design/2017/08/10/national-grid-app.html/
 ---
 
 2017-08

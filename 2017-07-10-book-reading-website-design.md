@@ -2,7 +2,7 @@
 layout: post
 title: "某古籍图文阅读网页设计"
 categories: design
-date: 2017-07-10
+permalink: /design/2017/07/10/book-reading-website-design.html/
 ---
 2017-07
 ![](https://i.imgur.com/8xG8lYC.jpg)

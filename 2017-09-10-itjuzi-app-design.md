@@ -2,7 +2,7 @@
 layout: post
 title: "IT桔子-信息聚合展示类APP页面设计"
 categories: design
-date: 2017-09-10
+permalink: /design/2017/09/10/itjuzi-app-design.html/
 ---
 
 2016/11-2017/9
