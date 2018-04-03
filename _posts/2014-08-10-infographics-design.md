@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[平面]品玩新媒体科技主题信息图设计"
+title: "品玩新媒体科技主题信息图设计"
 categories: design
 date: 2014-08-10
 ---
@@ -42,4 +42,3 @@ date: 2014-08-10
 
 ### 2014Q1移动安全数据报告
 ![4-2014anguanyun-V6-01](https://i.imgur.com/DkvRALe.png)
-
