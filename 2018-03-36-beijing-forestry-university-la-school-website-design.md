@@ -7,6 +7,8 @@ permalink: /design/2018/03/26/beijing-forestry-university-la-school-website-desi
 
 2018-03
 
+![00-bjfu-index](https://i.imgur.com/s7StYqk.jpg)
+
 ![01](https://i.imgur.com/cLrpwD8.png)
 
 ![01 copy 2](https://i.imgur.com/7WkSAoq.png)

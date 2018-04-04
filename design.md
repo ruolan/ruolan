@@ -10,11 +10,10 @@ permalink: /design/
 部分内容点击图片可以查看更多
 
 >
-#### 北京林业大学园林学院官网WEB及移动端页面设计
+#### [北京林业大学园林学院官网WEB及移动端页面设计](https://ruolan.github.io/design/2018/03/26/beijing-forestry-university-la-school-website-design.hmtl/)
 2018-03
 
-![00-bjfu-index](https://i.imgur.com/s7StYqk.jpg)
-
+[![00-bjfu-index](https://i.imgur.com/s7StYqk.jpg)](https://ruolan.github.io/design/2018/03/26/beijing-forestry-university-la-school-website-design.hmtl/)
 
 >
 #### Gogreen 澳洲太阳能资讯网站页面设计
