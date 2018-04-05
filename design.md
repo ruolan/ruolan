@@ -77,7 +77,9 @@ permalink: /design/
 
 大部分平面设计，我都是属于客串和帮忙，除了早期的工作产出。
 
-[查看平面设计>>](https://ruolan.github.io//design/2018/03/01/graphic-design.html/)
+[运营类设计>>](https://ruolan.github.io/design/2014/08/10/infographics-design.html)
+
+[平面设计>>](https://ruolan.github.io/design/2018/03/01/graphic-design.html/)
 
 
 **关于做设计的感受**
