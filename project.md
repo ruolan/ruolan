@@ -14,13 +14,13 @@ permalink: /project/
 
 #### 工作内容：
 
-[APP] [IT桔子APP](https://itunes.apple.com/cn/app/id915709839) APP版本3.5.2-版本5.0.1 工作内容选摘
+[APP] [IT桔子APP](https://itunes.apple.com/cn/app/id915709839) APP版本3.5.2-版本5.0.1
 
 [小程序] 桔子雷达会员售卖小程序
 
 [API商业化运营] [API接口服务](https://www.itjuzi.com/api/) 售卖及客服
 
-[后台] 桔子雷达后台系统及订单系统 工作内容选摘
+[后台] 桔子雷达后台系统及订单系统 
 
 [WEB+H5 APP] 诺亚财富-类外包 API接入及WEB和APP页面升级项目
 
