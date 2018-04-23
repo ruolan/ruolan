@@ -14,7 +14,7 @@ categories: blog
 - [alfred](https://www.alfredapp.com/)  - 效率工具
 - [contexts](https://contexts.co/) - 让你在多窗口的时候 在2-3个快捷键内快速切换到任何窗口  还有一个类似的叫Manico但是不如这个好用
 - [hyperdock](https://bahoom.com/hyperdock/`) - 在底部状态栏预览多窗口，这个功能当时在windows下的时候我觉得还挺实用的，尤其在一个设计工具开很多个参考窗口的时候
-- [paste](https://pasteapp.me/) - 如果你需要经常复制粘贴很多东西 想要记住复制的记录 
+- [paste](https://pasteapp.me/) - 如果你需要经常复制粘贴很多东西 想要记住复制的记录
 - [ezssl](https://ezssl.net/?r=115057) - 科学上网，我的推荐码：115057 曾用名 熊 猫 翻 滚，有点贵，但是很稳定很快
 - bettersnaptool - 在稍微早期一些的版本里 MAC是没有这个功能的 后来...MAC自带了就不需要了
 - 预览多图片软件：在mac下简直是不能忍，2014年用到现在的一个软件 arcsoft photo+ 已经很久不更新了，现在腾讯出了一个先推荐腾讯的把：看图
@@ -37,4 +37,3 @@ categories: blog
 
 ##### 版本记录
 180328 ruolan首次创建
-
