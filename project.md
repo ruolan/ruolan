@@ -8,7 +8,7 @@ permalink: /project/
 ### IT桔子
 [IT桔子](https://www.itjuzi.com/)是一个信息工具，通过整理整合网络公开数据抓取、UGC贡献、B端数据合作，为用户提供互联网创投市场信息与资讯。
 * **商业模式：**向B端和C端都收钱
-* **用户群体：**早期、中后期投资人、投资机构、
+* **用户群体：**早期、中后期投资人、投资机构
 
 在这里工作了一段较长的时间（2014.10-2017.12），并不是很满意自己的表现和产出，长期看到的一些问题长期推动但并没有得到改善，于是离职。
 
@@ -20,9 +20,9 @@ permalink: /project/
 
 [API商业化运营] [API接口服务](https://www.itjuzi.com/api/) 售卖及客服
 
-[后台] 桔子雷达后台系统及订单系统 
+[后台] 桔子雷达后台系统及订单系统
 
-[WEB+H5 APP] 诺亚财富-类外包 API接入及WEB和APP页面升级项目
+[WEB+H5 APP] 诺亚财富微诺亚-类外包 API接入及WEB和APP页面升级项目
 
 [小程序] 信息查询小程序（已下线）
 
@@ -53,9 +53,10 @@ permalink: /project/
 ### Side Project
 业余时间参与的项目
 
-* [产品设计] 北京林业大学园林学院官网WEB及移动端页面设计 2018-03
+* [产品设计] Coinchase(https://coinchase.com/) 2018-04
+* [产品设计] [北京林业大学园林学院官网WEB及移动端页面设计](https://ruolan.github.io/design/2018/03/26/beijing-forestry-university-la-school-website-design.hmtl/) 2018-03
 * [产品设计] Gogreen澳洲太阳能资讯网站页面设计 2017-11
-* [产品设计] 国家电网某项目页面设计 2017-8
-* [产品设计] 学堂在线资源库项目部分WEB设计 2017-10
-* [产品设计] 某古籍图文阅读网页设计 2017-7
+* [产品设计] [国家电网某项目页面设计](https://ruolan.github.io/design/2017/08/10/national-grid-app.html/)  2017-8
+* [产品设计] [学堂在线资源库项目部分WEB设计](https://ruolan.github.io/design/2017/10/10/xuetangx-mooc-website-design.html/) 2017-10
+* [产品设计] [某古籍图文阅读网页设计](https://ruolan.github.io/design/2017/07/10/book-reading-website-design.html/) 2017-7
 * [产品设计] 某教育网站设计 2015-12
