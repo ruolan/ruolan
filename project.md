@@ -14,7 +14,7 @@ permalink: /project/
 
 #### 工作内容：
 
-[APP] [IT桔子APP](https://itunes.apple.com/cn/app/id915709839) APP版本3.5.2-版本5.0.1 [产出选摘](https://ruolan.github.io/product/itjuzi-app-part.html/)
+[APP] [IT桔子APP](https://itunes.apple.com/cn/app/id915709839) APP版本3.5.2-版本5.0.1 [产品产出选摘](https://ruolan.github.io/product/itjuzi-app-part.html/) 参与了[部分设计](https://ruolan.github.io/design/2017/09/10/itjuzi-app-design.html/)
 
 [小程序] 桔子雷达会员售卖小程序
 
@@ -22,7 +22,7 @@ permalink: /project/
 
 [后台] [桔子雷达后台系统及订单系统](https://ruolan.github.io/product/itjuzi-radar-manage-system.html/)
 
-[WEB+H5 APP] 诺亚财富[微诺亚](https://itunes.apple.com/cn/app/id700524268）-类外包 API接入及WEB和APP页面升级项目
+[WEB+H5 APP] 诺亚财富 [微诺亚](https://itunes.apple.com/cn/app/id700524268) 类外包API接入及WEB和APP页面升级项目
 
 [小程序] IT桔子信息查询小程序（已下线）
 
@@ -32,7 +32,7 @@ permalink: /project/
 
 [后台] WEB网页后端部分系统
 
-[WEB] [IT桔子WEB网页](https://www.itjuzi.com/) 该网页已于2018年4月把之前的设计全部改掉了。已经不是我做的版本了。
+[WEB] [IT桔子WEB网页](https://www.itjuzi.com/) 该网页已于2018年4月把之前的设计全部改掉了。已经不是我做的版本了,[查看老版本](https://ruolan.github.io/design/2015/11/10/itjuzi-website-design.html/)。
 
 [电商] 报告包装、众筹、售卖[有赞电商运营](https://h5.youzan.com/v2/showcase/homepage?alias=1aq9ufeen)
 
