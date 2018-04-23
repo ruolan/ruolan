@@ -53,7 +53,7 @@ permalink: /project/
 ### Side Project
 业余时间参与的项目
 
-* [产品设计] Coinchase(https://coinchase.com/) 2018-04
+* [产品设计] [Coinchase](https://coinchase.com/) 2018-04
 * [产品设计] [北京林业大学园林学院官网WEB及移动端页面设计](https://ruolan.github.io/design/2018/03/26/beijing-forestry-university-la-school-website-design.hmtl/) 2018-03
 * [产品设计] Gogreen澳洲太阳能资讯网站页面设计 2017-11
 * [产品设计] [国家电网某项目页面设计](https://ruolan.github.io/design/2017/08/10/national-grid-app.html/)  2017-8
