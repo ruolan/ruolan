@@ -7,12 +7,13 @@ permalink: /project/
 # 项目
 ### 好未来  
 2018.6-2018.12 好未来 学而思培优 产品经理
-主要做课堂场景和课后场景的学生端教育产品。
+主要做课堂场景和课后场景的学生端教育产品[学而思云学习](https://itunes.apple.com/cn/app/id1327715695)（iPad+Phone App)
 
 
 ### IT桔子
 2014.10-2017.12 产品经理
 [IT桔子](https://www.itjuzi.com/)是一个信息工具，通过整理整合网络公开数据抓取、UGC贡献、B端数据合作，为用户提供互联网创投市场信息与资讯。
+```
 * **商业模式：**向B端和C端都收钱
 * **用户群体：**早期、中后期投资人、投资机构
 
@@ -44,10 +45,13 @@ permalink: /project/
 
 等等
 
+```
+
 ### 品玩
 2013.8-2014.9 运营类设计与编辑
 [品玩](http://www.pingwest.com/)是一家科技媒体公司，主要生产互联网圈的新闻、以及深度内容。
 
+```
 #### 工作内容：
 
 * [内容运营] [信息图内容栏目更新](http://www.pingwest.com/?s=pingraphic) 邮件推送运营 每周网站流量报告 采访编写文章
@@ -56,8 +60,10 @@ permalink: /project/
 * [活动运营] 百度开放云黑客马拉松活动执行
 * [产品] 图片栏目产品与网页设计 已下线
 * 等等
+```
 
 ### Side Project
+```
 业余时间参与的项目
 
 * [产品设计] [Coinchase](https://coinchase.com/) 2018-04~2018-10
@@ -67,3 +73,4 @@ permalink: /project/
 * [产品设计] [学堂在线资源库项目部分WEB设计](https://ruolan.github.io/design/2017/10/10/xuetangx-mooc-website-design.html/) 2017-10
 * [产品设计] [某古籍图文阅读网页设计](https://ruolan.github.io/design/2017/07/10/book-reading-website-design.html/) 2017-7
 * [产品设计] 某教育网站设计 2015-12
+```
