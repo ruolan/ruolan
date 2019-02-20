@@ -14,12 +14,12 @@ permalink: /project/
 ### IT桔子
 2014.10-2017.12 产品负责人
 
-[IT桔子](https://www.itjuzi.com/)是一个信息工具，通过整理整合网络公开数据抓取、UGC贡献、B端数据合作，为用户提供互联网创投市场信息与资讯。商业模式：向B端和C端都收钱.用户群体：早期、中后期投资人、投资机构
+[IT桔子](https://www.itjuzi.com/)是一个信息工具，通过整理整合网络公开数据抓取、UGC贡献、B端数据合作，为用户提供互联网创投市场信息与资讯。商业模式：向B端和C端都收钱。用户群体：早期、中后期投资人、投资机构
 
-在这里工作了一段较长的时间，并不是很满意自己的表现和产出，长期看到的一些问题长期推动但并没有得到改善，于是离职。
+在这里工作了一段较长的时间，获得了成长和进步，但长期看到的一些问题长期推动但并没有得到改善，于是离职。
 
 #### 工作内容：
-* [APP] [IT桔子APP](https://itunes.apple.com/cn/app/id915709839) APP版本3.5.2-版本5.0.1 [产品产出选摘](https://ruolan.github.io/product/itjuzi-app-part.html/) 参与了[部分设计](https://ruolan.github.io/design/2017/09/10/itjuzi-app-design.html/)
+* [APP] [IT桔子APP](https://itunes.apple.com/cn/app/id915709839) APP版本3.5.2-版本5.0.1(共计约25个版本)[产品产出选摘](https://ruolan.github.io/product/itjuzi-app-part.html/) 参与了[部分设计](https://ruolan.github.io/design/2017/09/10/itjuzi-app-design.html/)
 * [小程序] 桔子雷达会员售卖小程序
 * [API商业化运营] [API接口服务](https://www.itjuzi.com/api/) 售卖及客服
 * [后台] [桔子雷达后台系统及订单系统](https://ruolan.github.io/product/itjuzi-radar-manage-system.html/)
@@ -29,7 +29,7 @@ permalink: /project/
 * [组织] 桔子雷达人员招聘和团队搭建
 * [后台] WEB网页后端部分系统
 * [WEB] [IT桔子WEB网页](https://www.itjuzi.com/) 该网页已于2018年4月把之前的设计全部改掉了。已经不是我做的版本了,[查看老版本](https://ruolan.github.io/design/2015/11/10/itjuzi-website-design.html/)。
-* [电商] 报告包装、众筹、售卖[有赞电商运营](https://h5.youzan.com/v2/showcase/homepage?alias=1aq9ufeen)
+* [电商] 报告包装、运营、众筹、售卖[有赞电商运营](https://h5.youzan.com/v2/showcase/homepage?alias=1aq9ufeen)
 * 等等
 
 
