@@ -25,7 +25,7 @@ permalink: /project/
 * [后台] [桔子雷达后台系统及订单系统](https://ruolan.github.io/product/itjuzi-radar-manage-system.html/)
 * [WEB+H5 APP] 诺亚财富 [微诺亚](https://itunes.apple.com/cn/app/id700524268) 类外包API接入及WEB和APP页面升级项目
 * [小程序] IT桔子信息查询小程序（已下线）
-* [WEB] [桔子雷达](http://radar.itjuzi.com/)产品WEB网页前端
+* [WEB] 桔子雷达 产品WEB网页前端（已合并到主站）
 * [组织] 桔子雷达人员招聘和团队搭建
 * [后台] WEB网页后端部分系统
 * [WEB] [IT桔子WEB网页](https://www.itjuzi.com/) 该网页已于2018年4月把之前的设计全部改掉了。已经不是我做的版本了,[查看老版本](https://ruolan.github.io/design/2015/11/10/itjuzi-website-design.html/)。
