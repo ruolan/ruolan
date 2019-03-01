@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "国家电网某协同办公APP页面设计"
+title: "国家电网某协同办公APP产品设计"
 categories: design
 permalink: /design/2017/08/10/national-grid-app.html/
 ---

@@ -1,12 +1,14 @@
 ---
 layout: post
-title: "IT桔子-信息聚合展示类APP页面设计"
+title: "IT桔子-信息聚合展示类APP产品设计"
 categories: design
 permalink: /design/2017/09/10/itjuzi-app-design.html/
 ---
 
 2016/11-2017/9
 ![](https://i.imgur.com/6qNuQWw.jpg)
+
+![app wireframes](https://i.loli.net/2019/03/01/5c78d52cd70d8.png)
 
 ![app-design](https://i.imgur.com/hmC7N3p.jpg)
 

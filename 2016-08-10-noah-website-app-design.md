@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "诺亚财富微诺亚APP信息展示类页面设计"
+title: "诺亚财富微诺亚APP信息展示产品"
 categories: design project
 permalink: /design/2016/08/10/noah-website-app-design.html/
 date: 2016-08-10

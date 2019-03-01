@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "北京林业大学园林学院官网页面设计"
+title: "北京林业大学园林学院官网产品页面设计"
 categories: design
 permalink: /design/2018/03/26/beijing-forestry-university-la-school-website-design.hmtl/
 ---

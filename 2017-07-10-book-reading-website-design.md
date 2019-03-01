@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "某古籍图文阅读网页设计"
+title: "某古籍图文阅读网页产品设计"
 categories: design
 permalink: /design/2017/07/10/book-reading-website-design.html/
 ---
