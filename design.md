@@ -10,8 +10,8 @@ permalink: /design/
 部分内容点击图片可以查看更多
 
 >
-#### [Coinchase 产品设计](https://coinchase.com/)
-2018/04-2018/11 ...
+#### [Coinchase 产品设计](https://ruolan.github.io/design/2018/08/30/coinchase-website-design.hmtl/)
+2018/04-2018/10
 
 >
 #### [北京林业大学园林学院官网WEB及移动端产品设计](https://ruolan.github.io/design/2018/03/26/beijing-forestry-university-la-school-website-design.hmtl/)
@@ -94,7 +94,7 @@ permalink: /design/
 
 设计师在很多人的认知里是一个下游的岗位。对于上游的需求和理解如果不能够进行太多干预，下游本身就是一个被动产出的角色,但是优秀的设计工作者并不是下游被动产出的角色，设计有成型的方法和特点，但很多人不能意识到这一点。这也是我不断的想要往更上游的岗位参与和干预的原因。
 
-如上把工作做过的，和平常Side Project做的，设计过程和风格，都是实用主义。不讲究刻意创新和刻意的不一样。完成基础功能上，再加上简洁的装饰即可。
 
 
+190301 update some details
 180401 ruolan创建
