@@ -39,4 +39,4 @@ title: Hi
 [![00-bjfu-index](https://i.imgur.com/s7StYqk.jpg)](https://ruolan.github.io/design/2018/03/26/beijing-forestry-university-la-school-website-design.hmtl/)
 
 
-[查看全部设计>](https://ruolan.github.io/design/)
+[查看全部产品>](https://ruolan.github.io/design/)
