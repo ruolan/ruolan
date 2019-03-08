@@ -10,6 +10,8 @@ permalink: /design/2018/12/17/tal-xueersi-education-app.hmtl/
 改版后的产品
 ![iPad-Pro-Floating](https://i.loli.net/2019/03/01/5c78d46d729c1.jpg)
 
+我做的工作内容是产品经理（产品设计、产品管理、团队管理项目管理）。节选设计图片是因为看起来比较直观好看。需求文档就略或者只简单展示，毕竟是属于公司资产。
+
 ![Slice-3](https://i.loli.net/2019/03/01/5c78d471beec9.png)
 
 
