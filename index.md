@@ -32,11 +32,6 @@ title: Hi
 
 [![](https://i.imgur.com/E00NQWS.jpg)](https://ruolan.github.io/design/2017/09/10/itjuzi-app-design.html/)
 
->
-#### [北京林业大学园林学院官网WEB及移动端页面设计](https://ruolan.github.io/design/2018/03/26/beijing-forestry-university-la-school-website-design.hmtl/)
-2018-03
-
-[![00-bjfu-index](https://i.imgur.com/s7StYqk.jpg)](https://ruolan.github.io/design/2018/03/26/beijing-forestry-university-la-school-website-design.hmtl/)
 
 
-[查看全部产品>](https://ruolan.github.io/design/)
+[查看全部经历>](https://ruolan.github.io/project/)
