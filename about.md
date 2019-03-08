@@ -42,6 +42,8 @@ You can find me at: ruolan8[at]gmail.com
 
 log
 
-20190123 seious intro update
+20190228 delete nonsense
+
+20190123 serious intro update
 
 20180328 first release
