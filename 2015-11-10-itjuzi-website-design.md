@@ -30,5 +30,3 @@ date: 2015-11-10
 ![02-订单列表](https://i.imgur.com/JBIDuM4.png)
 
 ![03-节选部分图表](https://i.imgur.com/1GDIMSI.png)
-
-![04-节选用户详情](https://i.imgur.com/SoyuD6o.png)
