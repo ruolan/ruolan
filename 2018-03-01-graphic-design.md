@@ -57,7 +57,7 @@ permalink: /design/2018/03/01/graphic-design.html/
 
 
 
-## 客串免费设计的LOGO
+## 客串设计的LOGO
 
 >
 #### 上宇御合
